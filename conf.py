@@ -26,7 +26,7 @@ author = "小C"
 email = "xx@imalan.cn"
 author_homepage = "https://wmz317.github.io/"
 description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', '熊猫小C', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
