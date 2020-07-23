@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/Blog-C/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -37,7 +37,7 @@ external_links = [
     {
         "name": "三無計劃",
         "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "brief": "熊猫小C的主页。"
     }
 ]
 nav = [
